@@ -2,8 +2,8 @@
 templateKey: footer
 logoImage:
   image: /img/email.svg
-  imageAlt: JavaScript Wakanda
-  tagline: Your friendly local Wakanda meetup
+  imageAlt: Tutorial
+  tagline: 'https://blog.logrocket.com/gatsby-netlify-cms-a-perfect-pairing-d50d59d16f67'
 socialLinks:
   - image: /img/meetup.svg
     imageAlt: Join us on meetup.com
